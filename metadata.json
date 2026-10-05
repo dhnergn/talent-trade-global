@@ -1,0 +1,7 @@
+{
+  "name": "Talent Trade Global",
+  "description": "A credit-free student network for swapping skills: teach your expertise and learn new subjects through peer-to-peer exchange.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
